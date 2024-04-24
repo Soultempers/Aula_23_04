@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Aula_23_04</string>
+
+
+        <!-- Outros recursos -->
+
+        <string-array name="universidade_array">
+            <item>Universidade FAPAN</item>
+            <item>Universidade UFMT</item>
+            <item>Universidade UNEMAT</item>
+        </string-array>
+
+        <string-array name="curso_array">
+            <item>Curso MATEMATICA</item>
+            <item>Curso COMPUTAÇÃO</item>
+            <item>Curso DIREITO</item>
+        </string-array>
+
+
+</resources>
